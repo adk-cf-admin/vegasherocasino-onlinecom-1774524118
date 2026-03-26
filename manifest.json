@@ -1,0 +1,19 @@
+{
+  "name": "VegasHero",
+  "short_name": "VegasHero",
+  "theme_color": "",
+  "background_color": "#101521",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774522140-favicon-18.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
